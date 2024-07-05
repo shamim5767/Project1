@@ -4,6 +4,7 @@
     background-color: rgba(60, 60, 187, 0.241) ;
     margin: 10px;
     border-radius: 5px;
+    color: rgb(6, 6, 175);
 }
 *{margin: 0%;
 padding: 0%;
@@ -15,4 +16,20 @@ h1{background-color: rgba(0, 255, 255, 0.274);
     text-align: center;
     color: blue;
     margin: 10px;
+}
+.model{ border: 2px solid tomato;
+    margin: 10px;
+    background-color: rgba(141, 138, 199, 0.306);
+    color:rgb(7, 7, 189);
+    height: 300px;
+    width: 249px;
+    display:inline-flex;
+    align-content: center;
+    padding: 10px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    text-align:center;
+    
+
+
 }
